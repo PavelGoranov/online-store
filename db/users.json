@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "647cd6d1b6eedccf268b9201"
+  },
+  "name": "ngospodinov",
+  "email": "ngospodinov96@gmail.com",
+  "phone": "0888345830",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647cd9fbae5730d672a91c28"
+  },
+  "name": "pgoranov",
+  "email": "pgoranov@abv.bg",
+  "phone": "0888345831",
+  "password": "$2a$10$a1riqK388dfWbO39wXh95ux0TtxrD2bEi8azJu6/fKvirgXSTs6xu",
+  "__v": 0
+}]
